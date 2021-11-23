@@ -1,6 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoshanliang&count_private=true&show_icons=true&theme=vue-dark&bg_color=30,e96443,904e95)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoshanliang&&layout=compact&?hide=PLpgSQL)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoshanliang&theme=nord&layout=compact&?hide=PLpgSQL)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yaoshanliang/yaoshanliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
