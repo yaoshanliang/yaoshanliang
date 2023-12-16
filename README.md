@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaoshanliang&theme=nord&layout=compact&?hide=PLpgSQL)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
-![Snake animation](https://github.com/yaoshanliang/yaoshanliang/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/yaoshanliang/yaoshanliang/output/github-contribution-grid-snake.svg)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoshanliang&count_private=true&show_icons=true&theme=vue-dark&bg_color=30,e96443,904e95)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoshanliang&theme=nord&layout=compact&?hide=PLpgSQL)](https://github.com/anuraghazra/github-readme-stats) -->
