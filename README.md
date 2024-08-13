@@ -1,4 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoshanliang&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoshanliang&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)-->
+
+<img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=yaoshanliang&hide_border=true&theme=tokyonight" /> <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=yaoshanliang&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=tokyonight" />
 
 
 ![Snake animation](https://raw.githubusercontent.com/yaoshanliang/yaoshanliang/output/github-contribution-grid-snake.svg)
